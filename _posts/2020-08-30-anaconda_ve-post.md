@@ -12,7 +12,7 @@ categories: Anaconda
 
 1. Anaconda Navigator를 실행합니다.   
 2. CMD.exe Prompt를 Launch합니다. 만약 프롬프트가 설치되어 있지 않다면 install하시고 Launch하시면 됩니다.   
-3. 프롬프트에 'conda create -n my_python_env'를 입력하시면 됩니다. 여기서 'my_python_env'는 만들고자 하는 가상환경의 이름입니다. 원하시는 대로 이름을 바꿔 사용하시면 됩니다.   
+3. 프롬프트에 `conda create -n my_python_env`를 입력하시면 됩니다. 여기서 'my_python_env'는 만들고자 하는 가상환경의 이름입니다. 원하시는 대로 이름을 바꿔 사용하시면 됩니다.   
 
 **가상환경에 python설치하기**
 
