@@ -3,6 +3,11 @@ title: "Anaconda install"
 date: 2020-08-30 15:52:28 -0400
 categories: Anaconda
 ---
+**아나콘다를 사용해야 하는 이유(Why use anaconda?)**
+파이썬 코드를 작업하는데 있어 아나콘다(Anaconda)는 매우 유용합니다.
+아나콘다는 가상 환경을 쉽게 만들 수 있어 base의 오염을 방지할 수 있고 혹여나 패키지간의 충돌로 오류가 생겼을 경우 새로운 가상환경을 만들어 작업하는 것이 가능합니다.
+
+**아나콘다 설치(Anaconda Install)**
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
