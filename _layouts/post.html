@@ -26,7 +26,7 @@ layout: default_post
      <code> {{ content }} </code>
     </div>
     {% if page.comments %}
-        <div id="disqus_thread"></div>
+        ({<div id="disqus_thread"></div>
           <script>
 
           /**
@@ -45,7 +45,7 @@ layout: default_post
           (d.head || d.body).appendChild(s);
           })();
           </script>
-          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>})
     {% endif %}
   </div>
 </article>
