@@ -14,11 +14,11 @@ categories: Anaconda
 
 [아나콘다 다운로드 링크(Anaconda Install for Window)]   
 [아나콘다 다운로드 링크(Anaconda Install for macOS)]   
-[아나콘다 다운로드 링크(Anaconda Install for Linuw)]   
+[아나콘다 다운로드 링크(Anaconda Install for Linux)]   
 
 위 링크 중 자신의 OS에 맞는 링크에 들어가셔서 installer를   
 다운로드해주시면 됩니다.   
 
 [아나콘다 다운로드 링크(Anaconda Install for Window)]: https://www.anaconda.com/products/individual#windows
 [아나콘다 다운로드 링크(Anaconda Install for macOS)]: https://www.anaconda.com/products/individual#macos
-[아나콘다 다운로드 링크(Anaconda Install for Linuw)]: https://www.anaconda.com/products/individual#linux
+[아나콘다 다운로드 링크(Anaconda Install for Linux)]: https://www.anaconda.com/products/individual#linux
