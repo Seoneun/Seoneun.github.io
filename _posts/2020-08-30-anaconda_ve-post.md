@@ -16,5 +16,5 @@ categories: Anaconda
 
 **가상환경에 python설치하기**
 
-가상환경에 python을 설치하기 위해서는 'conda create -n my_python_env python=_version_'을 누르시면 됩니다. 여기서 '_version_' 부분에 원하시는 파이썬 버전을 입력하시면 됩니다.   
-ex) python 3.4버전 설치 'conda create -n my_python_env python=3.4'
+가상환경에 python을 설치하기 위해서는 `conda create -n my_python_env python=_version_`을 누르시면 됩니다. 여기서 `_version_` 부분에 원하시는 파이썬 버전을 입력하시면 됩니다.   
+ex) python 3.4버전 설치 `conda create -n my_python_env python=3.4`
