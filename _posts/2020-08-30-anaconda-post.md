@@ -27,8 +27,6 @@ def print_hi(name):
 print_hi('Tom')
 ​```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [아나콘다 다운로드 링크(Anaconda Install for Window)]: https://www.anaconda.com/products/individual#windows
 [아나콘다 다운로드 링크(Anaconda Install for macOS)]: https://www.anaconda.com/products/individual#macos
 [아나콘다 다운로드 링크(Anaconda Install for Linuw)]: https://www.anaconda.com/products/individual#linux
