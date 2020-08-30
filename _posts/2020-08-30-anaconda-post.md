@@ -2,6 +2,7 @@
 title: "Anaconda install"
 date: 2020-08-30 15:52:28 -0400
 categories: Anaconda
+comments: true
 ---
 **아나콘다를 사용해야 하는 이유(Why use anaconda?)**
 
